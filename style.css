@@ -1,0 +1,142 @@
+
+    /* Main Site Styles */
+
+body {
+    background-image: url(images/white-waves.png)
+}
+
+.navbar {
+    padding: 0 0 0 0 !important;
+    background: #ffffff;
+    border-bottom: 1px solid #cccccc;
+}
+
+.navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px !important;
+    color: #ffffff !important;
+    background-color: #4aaaa5;
+    padding: 15px 15px 15px 15px;
+    margin-left: 50px;
+}
+
+a {
+    color: #777777 !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.nav {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 14px;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    margin: 20px auto 80px 50px;
+    max-width: 60%;
+}
+
+.page-name {
+    padding: 15px 0 0 0 !important;
+}
+
+h1 {
+    margin: 0 0 10px 20px !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px !important;
+    color: #4aaaa5;
+}
+
+.pagebreak {
+    height: 1px;
+    width: 99%;
+    background-color: #cccccc;
+    margin: auto;
+}
+
+.fixed-bottom {
+    height: 70px;
+    width: 100%;
+    text-align: center !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #666666;
+    margin-top: 70px !important;
+    padding: 35px 20px 10px 47% !important;
+    border-top: 10px solid #4aaaa5;
+}
+
+
+    /* About Pages Styles */
+
+#profilepic {
+    margin: 20px 0 0 20px;
+}
+
+#p1 {
+    margin-top: 20px;
+}
+
+
+    /* Portfolio Page Styles */
+
+.portfolio-img {
+    margin: 20px;
+}
+
+.port-image {
+    width: 240px;
+    height: 180px;
+    margin: 20px 20px 20px 5px;
+    
+}
+
+.port-row {
+    height: 200px;
+}
+
+.ants-row {
+    margin-bottom: 20px;
+}
+
+.port-col {
+    /* width: 240px !important; */
+}
+
+
+    /* Contact Page Styles */
+
+form {
+    margin: 20px 0 20px 15px;
+    padding: 0 0 0 10px;
+    line-height: 160%;
+}
+
+input {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #777777;
+    border: 1px solid #cccccc;
+    width: 95%;
+    padding: 6px 10px 6px 10px;
+}
+
+#message-input {
+    height: 200px;
+}
+
+#submit {
+      background: #4aaaa5;
+      font-size: inherit;
+      color: #ffffff;
+      width: 100px;
+      height: 40px;
+      text-align: center;
+      padding: 5px;
+      margin: 5px 0px 5px 0px;
+  }
